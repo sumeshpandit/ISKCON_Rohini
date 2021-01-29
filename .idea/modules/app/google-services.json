@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197527488600",
+    "project_id": "iskcon-rohini-b9178",
+    "storage_bucket": "iskcon-rohini-b9178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197527488600:android:ff3206eac95e602df6622d",
+        "android_client_info": {
+          "package_name": "com.sumesh_pandit.iskconrohini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197527488600-udg648de7i8ktkh0l6dovvt3k55619a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumesh_pandit.iskconrohini",
+            "certificate_hash": "53b38d36437ca719103dda13be4f0a863dc5a2d7"
+          }
+        },
+        {
+          "client_id": "197527488600-4g6j8br2dud69vldqd9g4hiokbu7rnh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8BGvTrTKfXZUmq7z3_bJ6piMjTqzeHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197527488600-4g6j8br2dud69vldqd9g4hiokbu7rnh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
